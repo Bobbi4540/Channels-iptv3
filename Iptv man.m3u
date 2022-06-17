@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 ,Интер
 https://edge2.iptv.macc.com.ua/img/inter_2/index.m3u8
+#EXTINF:-1,ТВ3 HD
+https://livetv.mylifeisgood.ml/channels/tv3
 #EXTINF:-1 ,24 канал HD
 http://streamvideol1.luxnet.ua/news24/news24.stream/chunklist.m3u8
 #EXTINF:-1 ,2plus2
