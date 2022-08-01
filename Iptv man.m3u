@@ -1,4 +1,5 @@
 #EXTM3U
+#EXTINF:-1 ,Интер
 http://50.7.231.221:8081/514/index.m3u8?wmsAuthSign=1659355816p73i77i261i291S1dc3a7d32bffe1f213c2fd7e45b22287
 #EXTINF:-1 ,VIP Comedy
 http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/4000/stream.m3u8
